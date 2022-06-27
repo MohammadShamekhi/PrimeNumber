@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prime factorizations", "Prime factorizations\Prime factorizations.csproj", "{A3ABF62E-3E58-49E0-92CD-87C4F81BB8BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3ABF62E-3E58-49E0-92CD-87C4F81BB8BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3ABF62E-3E58-49E0-92CD-87C4F81BB8BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3ABF62E-3E58-49E0-92CD-87C4F81BB8BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3ABF62E-3E58-49E0-92CD-87C4F81BB8BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C632AFC-1A50-4750-8D89-0E4E5A388276}
+	EndGlobalSection
+EndGlobal
